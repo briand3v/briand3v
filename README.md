@@ -26,6 +26,13 @@ And **finally you would dream where you are now.**"
 - `Astronomy`
 - `Photography`
 
+### Main stack
+- Javascript
+- Typescript
+- Nodejs
+- Reactjs / Vuejs
+- Python
+
 <!---
 briand3v/briand3v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
