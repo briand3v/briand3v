@@ -1,9 +1,10 @@
 # 👋 Hi, I’m @briand3v
 ### 👀 I’m interested in
-·
-- `programming world`
+### Projects about
+- `Apps`
+- `Programming world`
 - `Music Production` 
-- `technologies`
+- `Technologies`
 - `Science`
 - `Astronomy`
 - `Photography`
